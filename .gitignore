@@ -1,3 +1,7 @@
+.metadata
+.idea
+.settings
+
 # Compiled class file
 *.class
 
